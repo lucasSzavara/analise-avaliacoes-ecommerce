@@ -1,0 +1,1 @@
+Esse projeto usa [Poetry](https://python-poetry.org/) para gerenciamento da versão do python e das bibliotecas necessárias. É recomendado instalar o poetry e instalar as dependências em um ambiente virtual para executar o projeto.
